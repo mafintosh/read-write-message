@@ -1,0 +1,19 @@
+{
+  "name": "read-write-message",
+  "version": "0.1.0",
+  "repository": "git://github.com:mafintosh/read-write-message.git",
+  "author": "Mathias Buus <mathiasbuus@gmail.com>",
+  "description": "Read/write a length prefixed JSON message to a stream and send regular binary data afterwards. Useful for sending stream headers etc.",
+  "keywords": [
+  	"stream",
+    "streams",
+    "streaming",
+    "headers",
+    "header",
+    "message",
+    "length",
+    "prefix",
+    "read",
+    "write"
+  ]
+}
